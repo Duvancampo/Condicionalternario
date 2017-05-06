@@ -1,4 +1,4 @@
-var isArthuro= falso;
+var isArthuro= false;
 	var weapong;
 		weapong= isArthuro? "Excailibur":"other";
-		console.log(weapong)
+		console.log("Es Arthuro"+"weapong")
